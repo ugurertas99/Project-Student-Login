@@ -1,0 +1,32 @@
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\Ornek2.exe.config
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\Ornek2.exe
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\Ornek2.pdb
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\EntityFramework.dll
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\EntityFramework.SqlServer.dll
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\EntityFramework.xml
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\EntityFramework.SqlServer.xml
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.csproj.AssemblyReference.cache
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.Form1.resources
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.Properties.Resources.resources
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.csproj.GenerateResource.cache
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.csproj.CoreCompileInputs.cache
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.csproj.Up2Date
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.exe
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.pdb
+C:\EGITMEN YEDEK\COBAN\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.frmLogin.resources
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\Ornek2.exe.config
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\Ornek2.exe
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\Ornek2.pdb
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\EntityFramework.dll
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\EntityFramework.xml
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.csproj.AssemblyReference.cache
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.Form1.resources
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.frmLogin.resources
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.Properties.Resources.resources
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.csproj.GenerateResource.cache
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.csproj.CoreCompileInputs.cache
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.csproj.Up2Date
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.exe
+C:\Users\songule3423\Desktop\SQL\2025-04-19-OS\Ornek2\Ornek2\obj\Debug\Ornek2.pdb
